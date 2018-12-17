@@ -20,10 +20,10 @@ More solutions will be added as soon as I find more time for tests.
 3. [TapeEquilibrium](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson3TimeComplexity/TapeEquilibrium.java)
 
 [**Lesson 4**](https://github.com/slobodanantonijevic/Codility/tree/master/Codility/src/Lesson4CountingElements)
-1. [PermCheck]()
-2. [FrogRiverOne]()
-3. [MaxCounters]()
-4. [MissingInteger]()
+1. [PermCheck](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson4CountingElements/PermCheck.java)
+2. [FrogRiverOne](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson4CountingElements/FrogRiverOne.java)
+3. [MaxCounters](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson4CountingElements/MaxCounters.java)
+4. [MissingInteger](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson4CountingElements/MissingInteger.java)
 
 [**Lesson 5**](https://github.com/slobodanantonijevic/Codility/tree/master/Codility/src/Lesson5PrefixSums)
 1. [PassingCars]()
