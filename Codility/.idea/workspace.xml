@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce8e4464-3751-4075-9b9b-244fe5b35333" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Lesson9MaximumSliceProblem/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson9MaximumSliceProblem/MaxProfit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -161,7 +161,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545034324514" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545034838445" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
