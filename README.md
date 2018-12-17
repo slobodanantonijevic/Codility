@@ -32,10 +32,10 @@ More solutions will be added as soon as I find more time for tests.
 4. [CountDiv](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson5PrefixSums/CountDiv.java)
 
 [**Lesson 6**](https://github.com/slobodanantonijevic/Codility/tree/master/Codility/src/Lesson6Sorting)
-1. [Distinct]()
-2. [Triangle]()
-3. [MaxProductOfThree]()
-4. [NumberOfDiscIntersections]()
+1. [Distinct](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson6Sorting/Distinct.java)
+2. [Triangle](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson6Sorting/Triangle.java)
+3. [MaxProductOfThree](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson6Sorting/MaxProductOfThree.java)
+4. [NumberOfDiscIntersections](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson6Sorting/NumberOfDiscIntersections.java)
 
 [**Lesson 7**](https://github.com/slobodanantonijevic/Codility/tree/master/Codility/src/Lesson7StacksAndQueues)
 1. [Brackets]()
