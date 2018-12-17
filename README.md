@@ -44,8 +44,8 @@ More solutions will be added as soon as I find more time for tests.
 4. [Fish](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson7StacksAndQueues/Fish.java)
 
 [**Lesson 8**](https://github.com/slobodanantonijevic/Codility/tree/master/Codility/src/Lesson8Leader)
-1. [EquiLeader]()
-2. [Dominator]()
+1. [EquiLeader](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson8Leader/EquiLeader.java)
+2. [Dominator](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson8Leader/Dominator.java)
 
 [**Lesson 9**](https://github.com/slobodanantonijevic/Codility/tree/master/Codility/src/Lesson9MaximumSliceProblem) (in progress)
 1. [MaxSliceSum
