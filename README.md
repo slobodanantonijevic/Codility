@@ -38,10 +38,10 @@ More solutions will be added as soon as I find more time for tests.
 4. [NumberOfDiscIntersections](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson6Sorting/NumberOfDiscIntersections.java)
 
 [**Lesson 7**](https://github.com/slobodanantonijevic/Codility/tree/master/Codility/src/Lesson7StacksAndQueues)
-1. [Brackets]()
-2. [Nesting]()
-3. [StoneWall]()
-4. [Fish]()
+1. [Brackets](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson7StacksAndQueues/Brackets.java)
+2. [Nesting](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson7StacksAndQueues/Nesting.java)
+3. [StoneWall](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson7StacksAndQueues/StoneWall.java)
+4. [Fish](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson7StacksAndQueues/Fish.java)
 
 [**Lesson 8**](https://github.com/slobodanantonijevic/Codility/tree/master/Codility/src/Lesson8Leader)
 1. [EquiLeader]()
