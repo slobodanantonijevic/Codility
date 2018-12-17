@@ -2,6 +2,11 @@ package Lesson8Leader;
 
 public class EquiLeader {
 
+    /**
+     * 100/100
+     * @param A
+     * @return
+     */
     public int solution(int[] A) {
 
         int N = A.length;
