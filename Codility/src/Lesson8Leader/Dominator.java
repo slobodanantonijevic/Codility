@@ -4,6 +4,11 @@ import java.util.HashMap;
 
 public class Dominator {
 
+    /**
+     * 100/100
+     * @param A
+     * @return
+     */
     public int solution(int[] A) {
 
         if (A.length == 0) return -1;
