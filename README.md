@@ -7,28 +7,29 @@ More solutions will be added as soon as I find more time for tests.
 
 ## Lessons and Tests List ##
 
-- **Lesson 1**
-    1. BynaryGap
+**Lesson 1**
+1. BynaryGap
 
-- **Lesson 2**
+**Lesson 2**
+1. CyclicRotation
+2. OddOccurrencesInArray
 
-
-- **Lesson 3**
-
-
-- **Lesson 4**
+**Lesson 3**
 
 
-- **Lesson 5**
+**Lesson 4**
 
 
-- **Lesson 6**
+**Lesson 5**
 
 
-- **Lesson 7**
+**Lesson 6**
 
 
-- **Lesson 8**
+**Lesson 7**
 
 
-- **Lesson 9** (in progress)
+**Lesson 8**
+
+
+**Lesson 9** (in progress)
