@@ -26,10 +26,10 @@ More solutions will be added as soon as I find more time for tests.
 4. [MissingInteger](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson4CountingElements/MissingInteger.java)
 
 [**Lesson 5**](https://github.com/slobodanantonijevic/Codility/tree/master/Codility/src/Lesson5PrefixSums)
-1. [PassingCars]()
-2. [GenomicRangeQuery]()
-3. [MinAvgTwoSlice]()
-4. [CountDiv]()
+1. [PassingCars](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson5PrefixSums/PassingCars.java)
+2. [GenomicRangeQuery](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson5PrefixSums/GenomicRangeQuery.java)
+3. [MinAvgTwoSlice](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson5PrefixSums/MinAvgTwoSlice.java)
+4. [CountDiv](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson5PrefixSums/CountDiv.java)
 
 [**Lesson 6**](https://github.com/slobodanantonijevic/Codility/tree/master/Codility/src/Lesson6Sorting)
 1. [Distinct]()
