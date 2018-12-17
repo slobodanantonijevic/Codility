@@ -48,6 +48,6 @@ More solutions will be added as soon as I find more time for tests.
 2. [Dominator](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson8Leader/Dominator.java)
 
 [**Lesson 9**](https://github.com/slobodanantonijevic/Codility/tree/master/Codility/src/Lesson9MaximumSliceProblem) (in progress)
-1. [MaxSliceSum
-2. [MaxProfit]()
+1. [MaxSliceSum](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson9MaximumSliceProblem/MaxSliceSum.java)
+2. [MaxProfit](https://github.com/slobodanantonijevic/Codility/blob/master/Codility/src/Lesson9MaximumSliceProblem/MaxProfit.java)
 3. MaxDoubleSliceSum (will get to this one ass soon as I have some time)
