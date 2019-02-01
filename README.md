@@ -4,6 +4,11 @@ Solutions to Codility lessons using Java
 ## Please note ##
 This repo is still a work in progress. I'm currently at lesson 9.
 More solutions will be added as soon as I find more time for tests.
+I am not 100% active on the subject, I just do these tests when I get bored and have enough spare time to put my head into work.
+
+## Also note ##
+I have done Codility tests as a brain practice, and decided to permanently store my solutions for safe keeping here. This repo has very little (real-life projects) practical value. It's purpose is just to have some fun with algorithms and do some brain workout.
+If you have any suggestions, questions or a need for further explanation of solutions feel free to write to me and I'll be eager to respond as soon as possible.
 
 ## Lessons and Tests List ##
 
